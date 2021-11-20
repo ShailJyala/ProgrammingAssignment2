@@ -94,7 +94,7 @@ R session:
 [1,]    6    8
 [2,]    2    4
 > 
-> # calling cacheSolve again should retrieve (not recalculate)
+> # calling cacheSolve again should retrieve (not recalculate).
 > # n1
 > cacheSolve(myMatrix_object)
 getting cached data
